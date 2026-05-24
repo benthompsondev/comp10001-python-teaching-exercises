@@ -12,3 +12,5 @@ venv/
 Thumbs.db
 Desktop.ini
 
+# Local code intelligence indexes
+.codegraph/
