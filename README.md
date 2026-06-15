@@ -1,8 +1,8 @@
 # COMP10001 Python Teaching Exercises
 
-Beginner-friendly Python examples created for COMP10001 PASS sessions while teaching and supporting college students learning programming fundamentals.
+Beginner-friendly Python examples I created while supporting COMP10001 students learning programming fundamentals.
 
-This repository is preserved as an instructional archive: the programs are intentionally small, direct, and focused on classroom concepts rather than production architecture.
+This repo is an instructional archive. The programs are intentionally small and direct because they were meant to help students understand one idea at a time.
 
 ## Teaching Focus
 
@@ -34,7 +34,6 @@ python grade_converter.py
 
 Many examples are interactive and will ask for input in the terminal.
 
-## Portfolio Note
+## What This Shows
 
-This project demonstrates teaching experience, beginner curriculum support, and the ability to translate programming concepts into small practice exercises for students.
-
+This project shows teaching experience and the ability to explain programming concepts with small practice exercises, not oversized examples.
