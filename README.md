@@ -1,8 +1,16 @@
 # COMP10001 Python Teaching Exercises
 
+[![Python syntax check](https://github.com/benthompsondev/comp10001-python-teaching-exercises/actions/workflows/python-check.yml/badge.svg)](https://github.com/benthompsondev/comp10001-python-teaching-exercises/actions/workflows/python-check.yml)
+
 Beginner-friendly Python examples I created while supporting COMP10001 students learning programming fundamentals.
 
 This repo is an instructional archive. The programs are intentionally small and direct because they were meant to help students understand one idea at a time.
+
+## Why This Is Here
+
+This is not one of my current flagship build projects. I keep it public because it shows an earlier part of my path: explaining programming basics, writing small examples, and helping beginners work through logic one step at a time.
+
+For recruiters or technical reviewers, the useful signal is communication. These examples are small on purpose.
 
 ## Teaching Focus
 
@@ -33,6 +41,12 @@ python grade_converter.py
 ```
 
 Many examples are interactive and will ask for input in the terminal.
+
+To check that the examples are syntactically valid:
+
+```powershell
+python -m compileall -q .
+```
 
 ## What This Shows
 
