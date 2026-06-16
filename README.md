@@ -2,15 +2,15 @@
 
 [![Python syntax check](https://github.com/benthompsondev/comp10001-python-teaching-exercises/actions/workflows/python-check.yml/badge.svg)](https://github.com/benthompsondev/comp10001-python-teaching-exercises/actions/workflows/python-check.yml)
 
-Beginner-friendly Python examples I created while supporting COMP10001 students learning programming fundamentals.
+Beginner-friendly Python examples from my earlier coding and teaching support work as a PASS Leader.
 
 This repo is an instructional archive. The programs are intentionally small and direct because they were meant to help students understand one idea at a time.
 
 ## Why This Is Here
 
-This is not one of my current flagship build projects. I keep it public because it shows an earlier part of my path: explaining programming basics, writing small examples, and helping beginners work through logic one step at a time.
+This is not one of my current flagship build projects. I keep it public because it shows an earlier part of my path: learning Python seriously, explaining beginner programming concepts, writing small examples, and helping students work through logic one step at a time.
 
-For recruiters or technical reviewers, the useful signal is communication. These examples are small on purpose.
+For recruiters or technical reviewers, the useful signal is communication. These examples are simpler than my current projects, but they show how I explain technical ideas and make coding less intimidating for beginners.
 
 ## Teaching Focus
 
@@ -50,4 +50,4 @@ python -m compileall -q .
 
 ## What This Shows
 
-This project shows teaching experience and the ability to explain programming concepts with small practice exercises, not oversized examples.
+This project shows teaching experience, early Python practice, and the ability to explain programming concepts with small practice exercises instead of oversized examples.
