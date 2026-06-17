@@ -1,6 +1,7 @@
 # COMP10001 Python Teaching Exercises
 
 [![Python syntax check](https://github.com/benthompsondev/comp10001-python-teaching-exercises/actions/workflows/python-check.yml/badge.svg)](https://github.com/benthompsondev/comp10001-python-teaching-exercises/actions/workflows/python-check.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Beginner-friendly Python examples from my earlier coding and teaching support work as a PASS Leader.
 
@@ -51,3 +52,7 @@ python -m compileall -q .
 ## What This Shows
 
 This project shows teaching experience, early Python practice, and the ability to explain programming concepts with small practice exercises instead of oversized examples.
+
+## License
+
+MIT. These examples are small teaching exercises, so feel free to reuse or adapt them for learning.
