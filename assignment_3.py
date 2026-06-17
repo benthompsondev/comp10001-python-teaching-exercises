@@ -1,7 +1,6 @@
 # Assignment 3 - Writing code from a design (Ifs/Modules/Loops)
 #
-#  I Benjamin Thompson, 000843991, certify that this work is my own effort
-#  and that I have not allowed anyone else to copy from it.
+# Original student assignment example. Student identifier removed for public sharing.
 
 
 
