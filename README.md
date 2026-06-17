@@ -37,12 +37,12 @@ Some of the code is intentionally preserved as beginner/student work. I would wr
 
 | Area | Examples |
 | --- | --- |
-| Basics | `input_test.py`, `grade_converter.py`, `temperature_function.py`, `miles_function.py` |
-| Functions | `basic_my_sum.py`, `basic_my_min.py`, `basic_my_max.py`, `max_function.py`, `no_return_function.py` |
-| Lists | `input_list.py`, `list_2.py`, `lists_3.py`, `list_4.py`, `planet_list.py` |
-| Strings and validation | `phone_checker.py`, `postal_code.py`, `postal_code_edit_1.py`, `string_comparison.py`, `vowel_checker.py` |
-| Exercises and assignments | `assignment_2.py`, `assignment_3.py`, `textbook_3.py`, `top_3.py`, `nested_grades.py` |
-| Visual references | `logic_1.png`, `logic_2.png`, `logic_3.png`, `codingbat_lists_1.png`, `codingbat_lists_2.png` |
+| Basics | [input_test.py](input_test.py), [grade_converter.py](grade_converter.py), [temperature_function.py](temperature_function.py), [miles_function.py](miles_function.py) |
+| Functions | [basic_my_sum.py](basic_my_sum.py), [basic_my_min.py](basic_my_min.py), [basic_my_max.py](basic_my_max.py), [max_function.py](max_function.py), [no_return_function.py](no_return_function.py) |
+| Lists | [input_list.py](input_list.py), [list_2.py](list_2.py), [lists_3.py](lists_3.py), [list_4.py](list_4.py), [planet_list.py](planet_list.py) |
+| Strings and validation | [phone_checker.py](phone_checker.py), [postal_code.py](postal_code.py), [postal_code_edit_1.py](postal_code_edit_1.py), [string_comparison.py](string_comparison.py), [vowel_checker.py](vowel_checker.py) |
+| Exercises and assignments | [assignment_2.py](assignment_2.py), [assignment_3.py](assignment_3.py), [textbook_3.py](textbook_3.py), [top_3.py](top_3.py), [nested_grades.py](nested_grades.py) |
+| Visual references | [logic_1.png](logic_1.png), [logic_2.png](logic_2.png), [logic_3.png](logic_3.png), [codingbat_lists_1.png](codingbat_lists_1.png), [codingbat_lists_2.png](codingbat_lists_2.png) |
 
 ## How to Run an Example
 
