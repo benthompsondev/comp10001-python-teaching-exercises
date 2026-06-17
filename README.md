@@ -12,7 +12,7 @@ This repo is an instructional archive. The programs are intentionally small and 
 | If you want to... | Open this |
 | --- | --- |
 | See the suggested order for beginners | [Learning Path](docs/learning-path.md) |
-| Run a simple first example | `grade_converter.py` |
+| Run a simple first example | [grade_converter.py](grade_converter.py) |
 | Check that the repo still compiles | [Python syntax check](https://github.com/benthompsondev/comp10001-python-teaching-exercises/actions/workflows/python-check.yml) |
 | Understand why this is public | [Why This Is Here](#why-this-is-here) |
 
